@@ -426,6 +426,7 @@ fun NodeTypeFilterDialog(
     )
 }
 
+@androidx.compose.runtime.Stable
 @Composable
 fun AnnounceCard(
     announce: Announce,
